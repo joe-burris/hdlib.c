@@ -1,21 +1,23 @@
-HDLib-C: A Hyperdimensional Computing Library in C
+# HDLib-C: A Hyperdimensional Computing Library in C
+
 HDLib-C is a C library for building Vector Symbolic Architectures (VSAs) based on the principles of Hyperdimensional Computing (HDC). It is a C implementation inspired by the original Python library hdlib developed by Fabio Cumbo. This library enables the creation and manipulation of high-dimensional vectors for representing and processing information, facilitating applications in machine learning, cognitive science, natural language processing, bioinformatics, and more.
 
-Table of Contents
-Getting Started
-Installation
-Dependencies
-Credits
-Support and Contributions
-License
-Getting Started
+## Table of Contents
+- Getting Started
+- Installation
+- Dependencies
+- Credits
+- Support and Contributions
+- License
 
-Installation
+## Getting Started
+
+### Installation
 To use HDLib-C in your projects, you can clone the repository and include the necessary header and source files in your C project.
 
-bash
-Copy code
+```bash
 git clone https://github.com/joe-burris/hdlib-c.git
+```
 Include the headers in your source files:
 
 Dependencies
